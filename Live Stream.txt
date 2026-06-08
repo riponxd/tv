@@ -1,0 +1,30 @@
+www.Skym3u.top
+
+01.SERVER: http://xvip.pro:80
+     USER: Mkamal387
+     PASS: K0404934387
+
+02.SERVER: http://zw00.xyz:8080
+     USER: ALi1Adana
+     PASS: gTZBkUZER3
+     
+03.SERVER: http://planettvweb.com:8091
+     USER: pablotorres
+     PASS: Ferpab8719
+     
+04.SERVER: http://bocian.io:8880
+     USER: NL753811
+     PASS: 552284900
+     
+05.SERVER: http://prys.xyz:80
+     USER: Sandramaria
+     PASS: 22999061026
+     
+       
+
+     
+
+******* STALKER PORTAL*******
+
+01.SERVER: http://204.52.191.254:80
+      MAC: 00:1A:79:C9:A4:81
